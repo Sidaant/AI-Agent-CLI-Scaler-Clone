@@ -26,25 +26,5 @@ This is a conversational CLI agent similar to Cursor or Windsurf that accepts na
 4. Once the agent is done, it will say `OUTPUT` and return control to you.
 5. Open the generated `index.html` file in your browser to verify it works and looks good.
 
-## Submission Checklist
-
-### 1. GitHub Repository (2 Marks)
-- Create a public GitHub repository.
-- Commit all the files in this folder (except `node_modules` and `.env`) to the repository.
-- Provide the public link on the course portal.
-
-### 2. YouTube Demo Video (2 Marks)
-- Record your screen for **2 to 3 minutes**.
-- Start by showing the code structure briefly.
-- Run `node index.js` in your terminal.
-- Type the prompt asking the agent to clone the Scaler website.
-- Show the agent actively generating the code (the THINK, TOOL, OBSERVE loop).
-- Once completed, open the generated `.html` file in the browser to show the final result.
-- Upload this video to YouTube as **Public** or **Unlisted** and submit the link.
-
-### Marking Scheme Review (10 Points Total)
-- GitHub Repository: 2
-- YouTube Demo Video: 2
-- Agent Loop & Reasoning (implemented via the JSON state machine loop): 2
-- Quality of Cloned Website: 2 (Ensure the generated output looks like Scaler!)
+erated output looks like Scaler!)
 - Code Quality & Documentation (Code is modularized and documented): 2
