@@ -26,5 +26,3 @@ This is a conversational CLI agent similar to Cursor or Windsurf that accepts na
 4. Once the agent is done, it will say `OUTPUT` and return control to you.
 5. Open the generated `index.html` file in your browser to verify it works and looks good.
 
-erated output looks like Scaler!)
-- Code Quality & Documentation (Code is modularized and documented): 2
